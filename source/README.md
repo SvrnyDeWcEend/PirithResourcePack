@@ -1,6 +1,8 @@
-# Pirith Language Flags
+# Pirith Resource Pack
 
-This resource pack adds flag icons for the language selection GUI in `PirithMain`.
+This is the standard Pirith server resource pack.
+
+It currently adds flag icons for the language selection GUI in `PirithMain`.
 
 The plugin uses `PAPER` with these custom model data values:
 

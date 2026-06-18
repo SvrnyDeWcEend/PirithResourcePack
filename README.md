@@ -1,15 +1,15 @@
-# PirithLanguageFlags
+# PirithResourcePack
 
-Public resource pack download for Pirith language flag icons.
+Public resource pack download for the Pirith server.
 
 Direct download URL:
 
 ```text
-https://raw.githubusercontent.com/SvrnyDeWcEend/PirithLanguageFlags/main/PirithLanguageFlags.zip
+https://raw.githubusercontent.com/SvrnyDeWcEend/PirithResourcePack/main/PirithResourcePack.zip
 ```
 
 SHA-1:
 
 ```text
-26da188e5c46eb1be310f8cd257bde94ff425751
+8073f16d7eae325971073ebec39440b2e32022ce
 ```
