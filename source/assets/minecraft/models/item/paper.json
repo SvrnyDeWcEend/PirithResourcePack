@@ -45,30 +45,6 @@
         "custom_model_data": 10007
       },
       "model": "pirith:item/language_flag_fr"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 10100
-      },
-      "model": "pirith:item/gui_language_map"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 10101
-      },
-      "model": "pirith:item/gui_language_border"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 10102
-      },
-      "model": "pirith:item/gui_language_compass"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 10103
-      },
-      "model": "pirith:item/gui_language_marker"
     }
   ]
 }

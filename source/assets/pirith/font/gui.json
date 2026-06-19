@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "pirith:gui/language_selector.png",
+      "ascent": 14,
+      "height": 94,
+      "chars": [
+        "\uE101"
+      ]
+    }
+  ]
+}
