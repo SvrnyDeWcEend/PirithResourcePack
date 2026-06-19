@@ -11,5 +11,5 @@ https://raw.githubusercontent.com/SvrnyDeWcEend/PirithResourcePack/main/PirithRe
 SHA-1:
 
 ```text
-6e5cddbb39cfc83391c7281ea28ab611ec658a9f
+0eaee6e06cf991cb6821940b2d4827b4113669b4
 ```
