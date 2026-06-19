@@ -3,14 +3,14 @@
     {
       "type": "space",
       "advances": {
-        "\uE102": -17
+        "\uE102": -35
       }
     },
     {
       "type": "bitmap",
       "file": "pirith:gui/language_selector.png",
-      "ascent": 44,
-      "height": 94,
+      "ascent": 46,
+      "height": 98,
       "chars": [
         "\uE101"
       ]
