@@ -9,7 +9,7 @@
     {
       "type": "bitmap",
       "file": "pirith:gui/language_selector.png",
-      "ascent": 42,
+      "ascent": 34,
       "height": 72,
       "chars": [
         "\uE101"
