@@ -1,3 +1,11 @@
 {
-  "container.inventory": ""
+  "container.inventory": "",
+  "painting.minecraft.skeleton.title": "ship",
+  "painting.minecraft.skeleton.author": "Pirith",
+  "painting.minecraft.fighters.title": "shipflag",
+  "painting.minecraft.fighters.author": "Pirith",
+  "painting.minecraft.wanderer.title": "pirate",
+  "painting.minecraft.wanderer.author": "Pirith",
+  "painting.minecraft.graham.title": "piratewomen",
+  "painting.minecraft.graham.author": "Pirith"
 }
